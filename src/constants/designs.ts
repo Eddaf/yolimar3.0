@@ -21,48 +21,48 @@ export interface Design {
 export const IMAGES_DB: Record<string, DesignCategory> = {
   Algodon: {
     _meta: { material: 'Algodón Brasilero 100%' },
-    blanco: '/placeholder.svg',
-    negro: '/placeholder.svg',
-    rojo: '/placeholder.svg',
-    azul: '/placeholder.svg',
-    verde: '/placeholder.svg',
-    gris: '/placeholder.svg'
+    blanco: '/imagenes/PolerasAlgodon/poleraBlancoALG1.png',
+    negro: '/imagenes/PolerasAlgodon/poleraNegroALG1.png',
+    rojo: '/imagenes/PolerasAlgodon/poleraRojoALG1.png',
+    azul: '/imagenes/PolerasAlgodon/poleraAzulALG1.png',
+    verde: '/imagenes/PolerasAlgodon/poleraVerdeALG1.png',
+    gris: '/imagenes/PolerasAlgodon/poleraPlomoALG1.png'
   },
   Poliester: {
     _meta: { material: 'Poliéster 100%' },
-    blanco: '/placeholder.svg',
-    negro: '/placeholder.svg',
-    rojo: '/placeholder.svg',
-    azul: '/placeholder.svg',
-    verde: '/placeholder.svg',
-    gris: '/placeholder.svg'
+    blanco: '/imagenes/PolerasPoliester/poleraBlancoPOL1.png',
+    negro: '/imagenes/PolerasPoliester/poleraNegroPOL1.png',
+    rojo: '/imagenes/PolerasPoliester/poleraRojoPOL1.png',
+    azul: '/imagenes/PolerasPoliester/poleraAzulPOL1.png',
+    verde: '/imagenes/PolerasPoliester/poleraVerdePOL1.png',
+    gris: '/imagenes/PolerasPoliester/poleraPlomoPOL1.png'
   },
   V: {
     _meta: { material: 'Poliéster 100%' },
-    blanco: '/placeholder.svg',
-    negro: '/placeholder.svg',
-    rojo: '/placeholder.svg',
-    azul: '/placeholder.svg',
-    verde: '/placeholder.svg',
-    gris: '/placeholder.svg'
+    blanco: '/imagenes/PolerasCuelloV/poleraBlancoCV1.png',
+    negro: '/imagenes/PolerasCuelloV/poleraNegroCV1.png',
+    rojo: '/imagenes/PolerasCuelloV/poleraRojoCV1.png',
+    azul: '/imagenes/PolerasCuelloV/poleraAzulCV1.png',
+    verde: '/imagenes/PolerasCuelloV/poleraVerdeCV1.png',
+    gris: '/imagenes/PolerasCuelloV/poleraPlomoCV1.png'
   },
   TOP: {
     _meta: { material: 'Algodón 100%' },
-    blanco: '/placeholder.svg',
-    negro: '/placeholder.svg',
-    rojo: '/placeholder.svg',
-    azul: '/placeholder.svg',
-    verde: '/placeholder.svg',
-    gris: '/placeholder.svg'
+    blanco: '/imagenes/PoleraTop/topBlanco1.png',
+    negro: '/imagenes/PoleraTop/topNegro1.png',
+    rojo: '/imagenes/PoleraTop/topRojo1.png',
+    azul: '/imagenes/PoleraTop/topAzul1.png',
+    verde: '/imagenes/PoleraTop/topVerde1.png',
+    gris: '/imagenes/PoleraTop/topGris1.png'
   },
   Solera: {
     _meta: { material: 'Gasa' },
-    blanco: '/placeholder.svg',
-    negro: '/placeholder.svg',
-    rojo: '/placeholder.svg',
-    azul: '/placeholder.svg',
-    verde: '/placeholder.svg',
-    gris: '/placeholder.svg'
+    blanco: '/imagenes/Solera/solBlanco1.png',
+    negro: '/imagenes/Solera/solNegro1.png',
+    rojo: '/imagenes/Solera/solRojo1.png',
+    azul: '/imagenes/Solera/solAzul1.png',
+    verde: '/imagenes/Solera/solVerde1.png',
+    gris: '/imagenes/Solera/solGris1.png'
   }
 };
 
